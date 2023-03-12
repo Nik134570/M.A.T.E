@@ -32,4 +32,6 @@ MATE (My Attractive Time Entertaiment)
 * информация о мероприятии
 * геолокация (при нажатии на которую пользователя будет перенаправлять на google карту)
 * кол-во людей, учавствующих в этом мероприятии
-![image](https://user-images.githubusercontent.com/92600545/224552364-65fda7b0-dbf0-4bf2-b2e6-1252e69c63c8.png)
+
+![post](https://user-images.githubusercontent.com/92600545/224552649-2c2a1990-e927-4efb-9953-12394c597998.png)
+
