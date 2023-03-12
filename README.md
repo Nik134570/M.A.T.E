@@ -29,7 +29,7 @@ MATE (My Attractive Time Entertaiment)
 
 **пост** - обьявление, состоящее из:
 
-![post](https://user-images.githubusercontent.com/92600545/224552796-22c8d8a5-d2dc-4d28-9380-841459ab7759.png)
+![post](https://user-images.githubusercontent.com/92600545/224553320-8a4e5ff2-bf27-4876-be51-06a359f6ff1d.png)
 * имя пользователя, создавшего пост
 * информация о мероприятии
 * геолокация (при нажатии на которую пользователя будет перенаправлять на google карту)
