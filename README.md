@@ -38,4 +38,4 @@ MATE (My Attractive Time Entertaiment)
 
 ### Поиск
 Раздел, в котором пользователь можнт выставить фильтры для того, чтобы найти интересующие его мероприятия (посты)
-![search](https://user-images.githubusercontent.com/92600545/224553599-05eda511-ccd5-44c8-98f3-c08a7882c889.png)
+![image](https://user-images.githubusercontent.com/92600545/224554278-46681757-9660-4323-a29d-5f4841e13dda.png)
