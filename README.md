@@ -1,4 +1,4 @@
-# M.A.T.E
+# M.A.T.E (https://github.com/Nik134570/MATE)
 MATE (My Attractive Time Entertaiment)
 
 # Аннотация
